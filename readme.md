@@ -143,7 +143,7 @@ Without (one person working sequentially), the chart would be as follows:
 
 ## Graph
 
-ou can change the direction of the graph. By default, it is drawn from top to bottom, but you can choose to draw it from left to right or even from bottom to top.
+You can change the direction of the graph. By default, it is drawn from top to bottom, but you can choose to draw it from left to right or even from bottom to top.
 For example "Bottom-Top":
 ![](assets/remote/readme/example-graph-bottom-to-top.jpg)
 
